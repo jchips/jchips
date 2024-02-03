@@ -1,4 +1,4 @@
-![Jchips banner](jchips-banner.gif)
+# ![Jchips banner](jchips-banner.gif)
 
 <h1 align="center">Full stack software developer</h1>
 
