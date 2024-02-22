@@ -17,15 +17,17 @@
 
 <h2 align="center">About Me</h2>
 
-My name is Jelani Rhinehart and I am a software developer. I’ve always had an interest in technology and began to teach myself some basic programming when I was 13.
+My name is Jelani Rhinehart and I am a software developer. As a child, I always had an interest in technology and began to teach myself some basic programming when I was 13.
 
-After high school, I knew I wanted to continue coding. I enjoyed creating my own CS projects and wanted more tools in my arsenal to make bigger, better applications. I pursued computer science at both the University of Washington and the University of Texas but found college was not for me at the time, so I’m taking a software development certification bootcamp.
+After high school, I knew I wanted to continue coding. I enjoyed creating my own CS projects and wanted more tools in my arsenal to make bigger, better applications. I pursued computer science at both the University of Washington and the University of Texas, and now I’m currently doing a software development certification bootcamp.
 
-Some of my greatest strengths are my attention to detail, thinking critically, problem-solving, listening, and being reliable. I am also very self-motivated and have a lot of perseverance. 
+I aim to deliver software solutions that not only meet the needs and expectations of users but also contribute to their overall satisfaction and positive experience.
 
-In the future, I envision myself full-stack web developing and publishing mobile applications that can be released both in the Google Play store and the App Store. Maybe one day also assisting young women of color in their learning of computer science to help close the gender and diversity gap in the field and inspire more coders.
+Some of my greatest strengths are my attention to detail, thinking critically, problem-solving, listening, and being reliable. I am also very self-motivated and have a lot of perseverance. This has helped me perform well in school and create numerous coding projects driven by my own initiative.
 
-Besides coding, I like to play the drums and dance.
+In the future, I envision myself with a career in full-stack web development or developing mobile applications for Android and IOS. Also going forward, I hope to assist women of color in their learning of computer science to help close the gender and diversity gap in the field and inspire more coders. I am open to any opportunities that can help me with these goals.
+
+Besides coding, I like to play the drums and dance (sometimes at the same time).
 
 <br>
 
