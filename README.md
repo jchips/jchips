@@ -13,7 +13,7 @@
 
 <p align="center">Welcome to my GitHub!</p>
 
-<p align="center">Technical skills: JavaScript, HTML/CSS, React, Vuejs, MongoDB, Postgres, Java, Kotlin</p><br>
+<p align="center">Technical skills: JavaScript, HTML/CSS, React, React Native, Vuejs, MongoDB, Postgres, Java, Kotlin</p><br>
 
 <h2 align="center">About Me</h2>
 
