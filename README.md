@@ -9,4 +9,6 @@
 
 <p align="center">Welcome to my GitHub!</p>
 
+<p align="center">My name is Jelani R.</p>
+
 <p align="center">Technical skills: JavaScript, React, React Native, Vuejs, MongoDB, Postgres, SQL, Java, Kotlin, SASS, HTML5/CSS3</p><br>
