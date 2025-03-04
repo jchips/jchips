@@ -3,7 +3,7 @@
 <h1 align="center">Full stack software developer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jelanirr" target="_blank"><img src="./icons8-gmail-48" /></a>
+  <a href="https://www.linkedin.com/in/jelanirr" target="_blank"><img src="./icons8-gmail-48.png" /></a>
   <a href="mailto: jelanirr@gmail.com" target="_blank"><img src="./icons8-linkedin-48.png" /></a>
 </p>
 
