@@ -11,4 +11,4 @@
 
 <p align="center">My name is <strong>Jelani R.</strong></p>
 
-<p align="center">Technical skills: JavaScript, React, React Native, Vuejs, MongoDB, Postgres, SQL, Java, Kotlin, SASS, HTML5/CSS3</p><br>
+<p align="center">Technical skills: JavaScript, React, React Native, Vuejs, MongoDB, Postgres, SQL, Kotlin, SASS, HTML5/CSS3</p><br>
