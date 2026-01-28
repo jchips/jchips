@@ -11,4 +11,6 @@
 
 <p align="center">My name is <strong>Jelani R.</strong></p>
 
-<p align="center">Technical skills: TypeScript/JavaScript, React, Python, Expo, Vuejs, Kotlin, SQL, MongoDB, Postgres, SASS, HTML5/CSS3</p><br>
+<p align="center">Languages: JavaScript/TS, Python, HTML5/CSS3, SASS, Kotlin, C++, SQL</p><br>
+
+<p align="center">Libraries & Frameworks: React, Node.js, Expo, FastAPI, Vue, MySQL, Postgres, MongoDB</p><br>
